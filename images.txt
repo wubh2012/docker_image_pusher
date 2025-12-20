@@ -1,6 +1,11 @@
+# docker 仓库地址 https://hub.docker.com/
+
 nginx
+
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+
+
+# rabbitmq
+rabbitmq:4.2.2-management-alpine
+rabbitmq:4.2.2-alpine
